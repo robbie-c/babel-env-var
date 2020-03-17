@@ -1,0 +1,17 @@
+{
+  "name": "babel-env-var",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robbie-c/babel-env-var.git",
+  "author": "Robbie Coomber <robbie.coomber@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write index.js imports.d.ts README.md"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
